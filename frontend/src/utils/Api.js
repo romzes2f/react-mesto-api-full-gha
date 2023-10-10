@@ -107,7 +107,7 @@ class Api {
 }
 
 const api = new Api({
-  baseUrl: "http://api.romzes2f.nomoredomainsrocks.ru",
+  baseUrl: "https://api.romzes2f.nomoredomainsrocks.ru",
 })
 
 export default api

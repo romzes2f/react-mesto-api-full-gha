@@ -1,4 +1,4 @@
-const BASE_URL = "http://api.romzes2f.nomoredomainsrocks.ru"
+const BASE_URL = "https://api.romzes2f.nomoredomainsrocks.ru"
 
 function checkResponse(res) {
   if (res.ok) {
